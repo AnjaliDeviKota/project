@@ -1,0 +1,149 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+}
+.main-header{
+	background: black;
+	padding: 20px;
+}
+.menu-bar{
+	display: flex;
+	margin-left: 0px;
+}
+.menu-bar h1{
+	color: white;
+}
+.menu-bar img{
+	width: 38px;
+}
+ul li{
+	list-style: none;
+	margin-top: 15px;
+	padding: 0px 90px 0px 0px;
+}
+ul{
+	display: flex;
+	margin-left: 290px
+
+}
+ul select{
+	    margin-block: auto;
+    margin-bottom: 0px;
+}
+.baner-img img{
+	width: 100%;
+	position: relative;
+	
+}
+.baner-content{
+	font-family: 'Roboto', sans-serif;	
+	position: absolute;
+	top: 0;
+	margin: 150px 0px 0px 112px;
+	width: 50%;
+}
+.about-section{
+	display: flex;
+}
+.about-section img{
+	width: 30%;
+	      margin: 106px 1px 0px -82px;
+	      padding: 0px 0px 0px 112px;
+	          
+
+}
+.about-section p {
+	margin-left: 150px;
+	width: 50%;
+	margin-top: 111px;
+    font-size: 24px;
+}
+.about-sec{
+	display: flex;
+}
+.about-sec img{
+	width: 30%;
+	      margin: 106px 1px 0px -82px;
+	          
+
+}
+.about-sec p {
+	margin-left: 150px;
+	width: 50%;
+	margin-top: 111px;
+    font-size: 24px;
+}
+.about-sec h2{
+	    margin: 74px 0px 0px 33px;
+}
+
+
+.galery-sec{
+	display: flex;
+}
+.galery-sec img{
+	width: 31%;
+    margin-bottom: 32px;
+    margin-right: 44px;
+    margin-left: 2px;
+}
+.gallery{
+	    width: 96%;
+    margin: 36px auto;
+}
+
+.galery-section img{
+	width: 30%;
+	  margin-left: 29px;
+}
+.fotter-sec{
+	font-size: 12px;
+	color: white;
+ padding: 0px 0px 100px 16px;
+	display: flex;
+	background-color: black;
+}
+.fotter1{
+	margin-left: 168px;
+}
+.fotter2{
+	margin-left: 141px;
+}
+.fotter3{
+	margin-left: 155px;
+}
+.fotter4{
+	    margin-left: 146px;
+   
+}
+.fotter-sec p{
+	margin-top: 21px;
+	   
+}
+.fotter4 img{
+	width: 30px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.fotter4 h3{
+	    margin-left: 46px;
+    margin-top: 20px;
+}
+.fotter1 h1{
+	margin-top: 20px;
+}
+.fotter2 h1{
+	margin-top: 20px;
+}
+.fotter3 h1{
+	    margin-top: 20px;
+}
+.fotter3 input{
+	margin-top: 25px;
+}
+
+/**/
